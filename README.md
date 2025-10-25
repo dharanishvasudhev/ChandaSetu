@@ -1,4 +1,4 @@
-# Chandojñānam
+# ChandaSetu
 
 Sanskrit meter identification and utilization system.
 
